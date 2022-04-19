@@ -1,0 +1,3 @@
+- 👋 dev-rafaz / Developer Iniciante
+- 🌱 Atualmente aprendendo: Python
+- 📫 Discord: nicotina#0001
